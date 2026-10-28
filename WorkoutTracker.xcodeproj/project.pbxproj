@@ -603,7 +603,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		AA2F0B052F4616BE0017BD04 /* XCRemoteSwiftPackageReference "convex-swift" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/get-convex/convex-swift";
+			repositoryURL = "https://github.com/convex/convex-swift";
 			requirement = {
 				kind = upToNextMinorVersion;
 				minimumVersion = 0.8.0;
@@ -611,7 +611,7 @@
 		};
 		AA2F0B082F4616F40017BD04 /* XCRemoteSwiftPackageReference "convex-swift-auth0" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/get-convex/convex-swift-auth0";
+			repositoryURL = "https://github.com/convex/convex-swift-auth0";
 			requirement = {
 				kind = upToNextMinorVersion;
 				minimumVersion = 0.4.0;

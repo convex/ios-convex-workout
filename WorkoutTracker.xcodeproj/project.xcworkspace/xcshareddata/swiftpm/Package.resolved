@@ -13,7 +13,7 @@
     {
       "identity" : "convex-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/get-convex/convex-swift",
+      "location" : "https://github.com/convex/convex-swift",
       "state" : {
         "revision" : "7de1d6e09f9094383f21da6737cb37757d91ee00",
         "version" : "0.8.0"
@@ -22,7 +22,7 @@
     {
       "identity" : "convex-swift-auth0",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/get-convex/convex-swift-auth0",
+      "location" : "https://github.com/convex/convex-swift-auth0",
       "state" : {
         "revision" : "536831cd23b83fe7b8d2e4585c691b89f8e517f7",
         "version" : "0.4.0"
